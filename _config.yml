@@ -25,6 +25,7 @@ github_username:  "asciiu"
 # Build settings
 markdown: kramdown
 theme: clean-jekyll-theme 
+#remote_theme: 
 plugins:
   - jekyll-feed
 
