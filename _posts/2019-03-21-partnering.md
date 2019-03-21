@@ -13,4 +13,4 @@ Shared ideas are one thing, but if this idea is truly your own you really need t
 4. Don't mix friendship with business. Just because you're good friends with this person does not mean that they are going to be good business partners.
 
 
-it's better to work out your ideas in solitude and prove that you can do it yourself then to work out plan to get some other person to do it. 
+ 
