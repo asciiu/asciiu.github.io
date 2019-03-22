@@ -1,5 +1,6 @@
 #! /bin/sh
 
+# source https://pulkitsharma07.github.io/2017/09/23/using-jekyll-and-github-pages/
 BUILD_DIR="./_site"
 TMP_DIR="/tmp/jekyll_build"
 CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
